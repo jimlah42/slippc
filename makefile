@@ -1,6 +1,8 @@
 RM := rm -rf
 MKDIR_P = mkdir -p
 
+CC=g++
+
 UNUSED := -Wno-unused-variable
 
 HEADERS += \
